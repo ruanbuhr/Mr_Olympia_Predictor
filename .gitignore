@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 data/
-
 model/model.h5
+test/
