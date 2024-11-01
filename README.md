@@ -1,6 +1,6 @@
 # Mr Olympia Predictor
 
-This application levarages machine learning to rank bodybuilders on their likelihood of winning the Mr Olympia.
+This application leverages machine learning to rank bodybuilders on their likelihood of winning the Mr Olympia competition.
 
 ## Overview
 
